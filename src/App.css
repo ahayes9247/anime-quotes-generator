@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html, body {
+    background: #4E5966;
+    background-image: url('../components/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+#quotes__container {
+    display: table;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    transform: translate(50%, -50%);
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    padding: 100px;
+    border-radius: 10px;
+
+    background: transparent;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.quote {
+    text-align: justify;
+    width: 500px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.btn {
+    background-color: #fff;
+    border: solid 5px #000;
+    color: #fff;
+    padding: 10px;
+    background: #000;
 }
 
-.App-link {
-  color: #61dafb;
+.btn-primary {
+    background-color: #fff;
+    border: solid 5px #000;
+    color: #fff;
+    padding: 10px;
+    background: #000;
+    border-radius: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn:hover, .btn-primary:hover {
+    background-color: #fff;
+    color: #000;
+    border: solid 5px #fff;
+    border-radius: 50px;
 }
