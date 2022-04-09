@@ -1,6 +1,6 @@
 # Introduction
 
-This project generates random quotes from Japanese anime and manga using an API. It was built as a side project to demonstrate my abilities in HTML, CSS, and React, as well as to illustrate my understanding of APIs.
+This project generates random quotes from Japanese anime and manga using an API. It was built as a side project to demonstrate my abilities in HTML, CSS, and React, to highlight my understanding of APIs, and to enhance my technical writing portfolio with live documentation written especially for developers.
 
 # Installation Instructions
 
