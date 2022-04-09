@@ -66,3 +66,7 @@ To close Port 3000, open your terminal and enter the following code:
 # Credits
 * [Random Anime Quotes API](https://github.com/rocktimsaikia/anime-chan) by [Rocktim](https://github.com/rocktimsaikia) on Github
 * Background image by [Jess Bailey](https://unsplash.com/@jessbaileydesigns) on [Unsplash](https://unsplash.com)
+
+# Copyright
+
+Copyright © 2022 Amanda Hayes
