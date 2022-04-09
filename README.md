@@ -1,3 +1,8 @@
+# Navigation
+
+<div align="center"><a href="#introduction">Introduction</a> &bull; <a href="#installation-instructions">Installation Instructions</a> &bull; <a href="#additional-installation-notes">Additional Installation Notes</a> &bull;<br> <a href="#tech-stack">Tech Stack</a> &bull; <a href="#credits">Credits</a> &bull; <a href="#copyright">Copyright</a></div>
+
+
 # Introduction
 
 This project generates random quotes from Japanese anime and manga using an API. It was built as a side project to demonstrate my abilities in HTML, CSS, and React, to highlight my understanding of APIs, and to enhance my technical writing portfolio with live documentation written especially for developers.
